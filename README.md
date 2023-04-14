@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Jesús👋
 
-**Practicante de Desarrollo de Software**
+**Desarrollador de Software**
 
 <div align="center">
   <a href="https://github.com/JesusAIV">
