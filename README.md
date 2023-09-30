@@ -9,7 +9,7 @@
 </div>
 
 ### Contacto
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" width="25"></img>](https://www.facebook.com/YisusAIV/) &nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" width="25"></img>]([https://www.facebook.com/YisusAIV/](https://www.facebook.com/jesusIV.yius11)) &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="25"></img>](https://www.linkedin.com/in/jes%C3%BAs-isique-vasquez/) &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="linkedin" width="25"></img>](https://wa.me/51970819776/) &nbsp;&nbsp;&nbsp;
   
